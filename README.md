@@ -1,0 +1,2 @@
+# privacyPolicy
+Ayurvedic Upchar app
