@@ -64,4 +64,4 @@ For questions or concerns regarding this privacy policy, contact us:
 
 ---
 
-This privacy policy meets all **Google Play User Data Policy** requirements and ensures transparency regarding data collection, storage, and usage.  
+  
